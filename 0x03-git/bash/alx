@@ -1,3 +1,5 @@
-#!biin/bash
-ALXroot@823ace4015ca:~/alx-zero_day/0x03-git/bash# cat > school
-clear
+#!/bin/bash
+Schoolroot@823ace4015ca:~/alx-zero_day/0x03-git/bash# 
+alx school
+root@823ace4015ca:~/alx-zero_day/0x03-git/bash# ls
+ALX
